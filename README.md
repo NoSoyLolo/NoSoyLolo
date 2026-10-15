@@ -1,52 +1,25 @@
-# Lorenzo Rosli
+¡Hola! Soy nosoylolo 👋
 
-Python Developer focused on automation and artificial intelligence.  
-Desarrollador Python orientado a automatización e inteligencia artificial.
+Desarrollador de Software enfocado en arquitectura de sistemas, desarrollo backend y automatización de procesos.
 
-I specialize in transforming repetitive tasks into automated, efficient, and scalable systems. I primarily work with Python, FastAPI, and automation tools like n8n.
+Lo que hago
 
----
+Backend & Lógica: Arquitectura cliente-servidor, programación asincrónica (asyncio), manejo de eventos y estados.
 
-## Technologies
+Sistemas Multijugador: Desarrollo de lógica backend modular para entornos de alta concurrencia en tiempo real.
 
-- Python
-- FastAPI
-- n8n
-- REST APIs
-- Process automation
-- Git / GitHub
-- Databases (basic knowledge)
+Automatización & Herramientas: Bots de comunidades, integración de webhooks y flujos de trabajo con n8n.
 
----
+Tech Stack
 
-## What I Do
+Lenguajes: Python, Lua, SQL, JavaScript, HTML/CSS
 
-- Build APIs for automation workflows
-- Integrate external services and systems
-- Design automated processes and workflows
-- Develop scripts to optimize repetitive tasks
+Bases de Datos: MySQL, SQLite, Key-Value Persistence (KVP)
 
----
+Herramientas & Entornos: Git, GitHub, n8n, Webhooks, Async Execution
 
-## Featured Projects
+Proyectos Destacados
 
-### n8n Automation
-Process automation by connecting APIs, services, and business logic.
+BOT-Impostor: Bot de Discord en Python para la automatización y gestión dinámica de partidas en comunidades mediante DMs asíncronos y control de excepciones.
 
-### FastAPI REST API
-Scalable API design for automation and system integration.
-
-### Automation Scripts
-Python tools to solve real-world repetitive tasks efficiently.
-
----
-
-## Goal
-
-Looking for a position where I can work on real automation projects, learn in production environments, and contribute with scalable solutions.
-
----
-
-## Contact
-
-Email: roslilorenzo123@gmail.com
+nosoylolo-npc-orders: Sistema backend modular en Lua/SQL para la simulación y gestión de estados de entidades (NPCs) en tiempo real.
